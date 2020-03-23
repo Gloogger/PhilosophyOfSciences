@@ -276,6 +276,8 @@ P1 (problem) -> TT (tentative theory) -> EE (Eliminate Error) -> P2 (problem)
 ## 保罗·费耶阿本德(Paul Feyeraberd)与无政府主义认识论
 将库恩的相对主义发展至极致，提出了无政府主义、怎么着都行的认识论。这包括：概念不可通约，多元论，“ _怎么着都行_ ”， 任性原则 和 增生原则。
 
+### 科学
+
 ***
 
 Image hosting template:
