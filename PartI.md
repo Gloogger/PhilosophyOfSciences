@@ -237,6 +237,11 @@ P1 (problem) -> TT (tentative theory) -> EE (Eliminate Error) -> P2 (problem)
 3. anomalies （怀疑）
 4. revolutionary stage （打破并建立）
 
+### 不可通约性
+新旧范式之间的关系是不可通约的，因而科学的进步性就收到了损伤，因为没有客观的真理，也就当然不会有客观性的进步。这导致了严重的相对主义/非理性主义问题。
+
+***
+
 
 
 ***
