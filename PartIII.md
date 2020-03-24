@@ -13,6 +13,14 @@ is_project_page: false
 <span style="float:right;"><button type="button" onclick="window.location.href='PartIV.html';">Next</button></span>
 </p>
 
+# 古希腊的自然阶梯思想
+## 前亚里士多德时期
+### 希波克拉底的描述性生物学
+> “当知道那些人喜欢用假设的论据将医学科学还原为‘假设’的简单事件可以治愈任何人，我全然困惑了。”
+>
+> ————Hippocrates, _The Nature of Man_, section 4, in Hippocrates, 1978, p.7
+
+
 
 
 ***
